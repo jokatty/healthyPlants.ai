@@ -14,3 +14,9 @@ venv/
 # Logs and databases
 *.log
 *.sqlite3
+
+# Python generated
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
