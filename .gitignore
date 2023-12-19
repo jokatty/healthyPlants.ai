@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
